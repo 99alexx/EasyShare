@@ -12,9 +12,13 @@ Rules for usage:
 - Pseudo code
 - General discussions
 
+Tools/Frameworks etc:
+- NodeJS, Express, Multer, prettier
+- React/Vite, Tailwind
+
 # The development plan (Implemented some improvements from Claude)
 
-Phase 1: Basic Backend - Tools: NodeJS, Express, Multer
+Phase 1: Basic Backend 
 - Goal: Get file upload and download working
 - Set up Express server
 - Implement file upload endpoint
@@ -22,7 +26,7 @@ Phase 1: Basic Backend - Tools: NodeJS, Express, Multer
 - Build download endpoint with unique ID
 - Test with tools like Postman/Thunder Client
 
-Phase 2: Basic Frontend - Tools: React/Vite, Tailwind
+Phase 2: Basic Frontend 
 - Goal: Simple interface for testing functionality
 - Create upload form
 - Show generated link after upload
