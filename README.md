@@ -6,6 +6,12 @@ The birth of the idea: When I was in university we sometimes worked in group pro
 I had bought an Rasperry Pi 5, and did not know what to really use it for...
 So why not use the Pi to host a server and to build a relatively simple website to share files on. The upside of doing it this way is for me to learn along the way how to set up a server on a Pi, full controll of the server and management. 
 
+To actually learn as much as possible i've limited the use of GenAI as much as possible.
+Rules for usage:
+- For every prompt or thread, provided instuctions to NOT provide code examples.
+- Pseudo code
+- General discussions
+
 # The development plan
 
 Phase 1: Basic Backend - Tools: NodeJS, Express, Multer
