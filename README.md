@@ -9,12 +9,12 @@ So why not use the Pi to host a server for this website. The upside of doing it 
 # The development plan
 
 Phase 1: Basic Backend
--Goal: Get file upload and download working
--Set up Express server
--Implement file upload endpoint
--Create temporary file storage on disk
--Build download endpoint with unique ID
--Test with tools like Postman/Thunder Client
+- Goal: Get file upload and download working
+- Set up Express server
+- Implement file upload endpoint
+- Create temporary file storage on disk
+- Build download endpoint with unique ID
+- Test with tools like Postman/Thunder Client
 
 Phase 2: Basic Frontend 
 Goal: Simple interface for testing functionality
