@@ -17,47 +17,47 @@ Phase 1: Basic Backend
 - Test with tools like Postman/Thunder Client
 
 Phase 2: Basic Frontend 
-Goal: Simple interface for testing functionality
-Create upload form
-Show generated link after upload
-Create download page that accepts link/ID
-Basic CSS/styling
+- Goal: Simple interface for testing functionality
+- Create upload form
+- Show generated link after upload
+- Create download page that accepts link/ID
+- Basic CSS/styling
 
 Phase 3: Link Management & Security
-Goal: Secure, unique links
-Generate cryptographically secure IDs
-Implement link validation
-Add basic security headers
-File size and file type validation
+- Goal: Secure, unique links
+- Generate cryptographically secure IDs
+- Implement link validation
+- Add basic security headers
+- File size and file type validation
 
 Phase 4: Automatic Deletion
-Goal: Files disappear after 10 min or upon download
-Timer-based deletion
-Deletion on download
-Regular cleanup job
-Database/file to track file status
+- Goal: Files disappear after 10 min or upon download
+- Timer-based deletion
+- Deletion on download
+- Regular cleanup job
+- Database/file to track file status
 
 Phase 5: User Experience
-Goal: Make it user-friendly
-Progress bars for upload/download
-Error handling and user messages
-Responsive design for mobile
-Loading states and feedback
+- Goal: Make it user-friendly
+- Progress bars for upload/download
+- Error handling and user messages
+- Responsive design for mobile
+- Loading states and feedback
 
 Phase 6: Performance & Robustness
-Goal: Handle large files and multiple users
-Streaming for large files
-Rate limiting
-Proper error handling
-Memory management
+- Goal: Handle large files and multiple users
+- Streaming for large files
+- Rate limiting
+- Proper error handling
+- Memory management
 
 Phase 7: Production & Deployment
-Goal: Go live on Raspberry Pi
-Domain setup and DNS
-SSL certificate
-Nginx reverse proxy
-Process management (PM2)
-Monitoring and logs
+- Goal: Go live on Raspberry Pi
+- Domain setup and DNS
+- SSL certificate
+- Nginx reverse proxy
+- Process management (PM2)
+- Monitoring and logs
 
 
 
