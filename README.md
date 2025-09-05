@@ -8,7 +8,7 @@ So why not use the Pi to host a server and to build a relatively simple website 
 
 # The development plan
 
-Phase 1: Basic Backend
+Phase 1: Basic Backend - Tools: NodeJS, Express, Multer
 - Goal: Get file upload and download working
 - Set up Express server
 - Implement file upload endpoint
@@ -16,7 +16,7 @@ Phase 1: Basic Backend
 - Build download endpoint with unique ID
 - Test with tools like Postman/Thunder Client
 
-Phase 2: Basic Frontend 
+Phase 2: Basic Frontend - Tools: React/Vite, Tailwind
 - Goal: Simple interface for testing functionality
 - Create upload form
 - Show generated link after upload
