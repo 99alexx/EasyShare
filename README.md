@@ -2,9 +2,9 @@
 
 EasyShare - Share files between friends quick and easy
 
-The birth of the ideea: When I was in university we sometimes worked in group projects. One recurring problem was to quickly and easily share files between each other, specifically 20MB+ sized files. 
+The birth of the idea: When I was in university we sometimes worked in group projects. One recurring problem was to quickly and easily share files between each other, specifically 20MB+ sized files. 
 I had bought an Rasperry Pi 5, and did not know what to really use it for...
-So why not use the Pi to host a server for this website. The upside of doing it this way is for me to learn along the way how to set up a server on a Pi, full controll of the server and management. 
+So why not use the Pi to host a server and to build a relatively simple website to share files on. The upside of doing it this way is for me to learn along the way how to set up a server on a Pi, full controll of the server and management. 
 
 # The development plan
 
