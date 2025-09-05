@@ -12,7 +12,7 @@ Rules for usage:
 - Pseudo code
 - General discussions
 
-# The development plan
+# The development plan (Built with some help from Claude)
 
 Phase 1: Basic Backend - Tools: NodeJS, Express, Multer
 - Goal: Get file upload and download working
